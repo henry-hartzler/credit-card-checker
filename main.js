@@ -88,4 +88,4 @@ const idInvalidCardCompanies = arr => {
   } return compName;
 }
 
-console.log(idInvalidCardCompanies(inValidCards));
+
